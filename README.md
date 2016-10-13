@@ -359,6 +359,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
 * [tinytag](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
+* [librosa](https://github.com/librosa/librosa) - A Python library for audio and music analysis
 
 ## Video
 
